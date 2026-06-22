@@ -2,9 +2,53 @@
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
-    <title>Document</title>
+    <title>Resumo básico de CSS</title>
+    <link rel="stylesheet" href="estudocod.css">
 </head>
 <body>
     <h1>Resumo basíco sobre CSS </h1>
+    <h3>O objetivo principal do CSS é estilizar a página de um site, com o objetivo de dar vidas e organizar os elementos 
+        na tela. Com isso, foram reunidos alguns elementos basícos de uso no CSS.</h3>
+    
+    <h2>Sumário</h2>
+    <p>Conexão/estrutura</p><br>
+    <p>Seletores Básicos</p><br>
+    
+    <article>
+    <h2>Conexão/estrutura</h2>
+    <p>Para unir um arquivo.html com um arquivo.css é nessesario colocar o link no espaço head (cabeçahlo onde se 
+        localiza os metadados do site) descrito como o comando ..... sendo a tag descrita por um "link", o tipo de estrutura 
+    que vai ser utilizada, que no caso é o CSS "rel="styleshet" e o local que irá estar o arquivos.css "href="estudoscod.css"</p>
+    <img src="Imagens/linkconexão.png"alt="link do CSS inserido no HTMl">
+
+    <p>A estrutura é composta por Seletores, Propriedade e Valores<br>
+    Seletor(h1)= seleciona qual a tag vai receber essa estilização<br>
+    Propriedade(color)= oq vai ser alterado nessa tag? (cor? tamanho?...)<br>
+    Valores(aqua)= o resultado da alteração<br>
+    Exemplo:</p>
+    <img src="Imagens/seletorescss.png"alt="Seletores,Propriedades e Valores do CSS">
+    </article>
+
+    <article>
+        <h2>Seletores Básicos</h2>
+        <p>Os seletores vão ser formas que você pode está selecionando uma tag no css pra recer a alteração dependendo
+        da forma que ficar mais facil de visualizar e deixar o codigo mais limpo, sendo cada função dividida em:</p>
+        <h3>Modificar uma tag especifica de toda a estutura</h3>
+        <p>Exemplo prático: -Eu quero que todos os paragrafos fiquem da cor verde, ou seja não é só o paragrafo que está em 
+            uma parte especifica, mas todos os paragrafos do site.
+        </p>
+        <img src="Imagens/parágrafo.png"alt="tag parágrafo selecionada no css"classe="imagem"><br>
+        <img src="Imagens/parágrafohtml.png"alt="resultado dessa alteração no html" height="800" width="1000">
+
+        <h3>Colorir parágrafos especificos</h3>
+        <p>Exemplo prático: -Agora eu quero selecionar um parágrafo especifico do meu site pra recer a cor verde.<br>
+            Para isso você deve colocar uma classe com um nome na tag que você deseja modifica que vai servir para
+            identificar ela, como por exemplo class=destaque, assim no css colocando .destaque vai selecionar apenas a tag 
+            que possue a classe com esse nome.</p>
+        <img src="Imagens/paragrafo2.png" alt="classe destaque dentro do paragrafoq que vai recer a cor verde no css">
+        <img src="Imagens/destaquecss.png" alt="classe destaque no css">
+        <img src="Imagens/resultado.classe2.png" alt="resultado do uso da clsse destaque na tag parágrafo incerida no html">
+
+    </article>
 </body>
 </html>
