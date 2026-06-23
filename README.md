@@ -1,7 +1,7 @@
 Olá, tudo bem? 
 Antes de darmos início ao diário do meu projeto vou explicar qual foram os objetivos que desejo alcalçar apartir da criação desse projeto de Resumo CSS.
 
-Sou uma pessoa que anota muitas coisas e resumos de cada matéria, o que me ajudou muito a relembrar conteúdos e comecei a achar interresante pessoas que criavam sites
+Sou uma pessoa que anota muitas coisas e resumos de cada matéria, o que me ajudou muito a relembrar conteúdos, comecei a achar interresante pessoas que criavam sites
 com resumos dos conteúdos de cada linguagem, eu entrava e via como a didática dessas pessoas era boa e compreensível, logo,  me inspirei a criar esse site com o título
 "Resumo básico CSS" com o intuito de ajudar outras pessoas que estivessem começando nos estudos de tecnologia. Além disso, pensei em ser uma ótima ideia para que eu 
 possa estar treinando mais HTML e CSS, e também a minha escrita para que ela se torne cada vez melhor na parte da explicação. Sendo assim o objetivo principal e ajudar
