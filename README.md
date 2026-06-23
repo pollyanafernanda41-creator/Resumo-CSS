@@ -13,9 +13,21 @@ esse projeto.
 Delimitei um período de 6 dias para estar finalizando o site, com o intuito de cronstruir em mim disciplina e comprometimento com as minhas responsabilidades. Em cada dia 
 eu vou ter um objetivo muito bem exclarecido e no final dele eu estarei registrando minha experiência no Readme.
 
-DIA 1- 
-DIA 2-
-DIA 3-
-DIA 4-
-DIA 5-
-DIA 6-
+22/06 (DIA 1)
+-Escrever resmudo conteúdo com minhas palavras
+
+23/06 (DIA 2)
+-Estruturar o site com o conteúdo falso
+-Organizar os elementos colocandos usando CSS, e deixar na estrutura que eu quero
+
+24/06 (DIA 3)
+-Colocar o conteúdo verdadeiro ajustando o tamanho dos textos de acordo com as restrições de tamanho estabelecidas
+
+25/06 (DIA 4)
+-Ajustes
+
+26/06 (DIA 5)-
+-Ajustes
+
+27/06 (DIA 6)
+-Esntrega
