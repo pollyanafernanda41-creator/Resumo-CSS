@@ -1,5 +1,5 @@
 Olá, tudo bem? 
-Antes de darmos início ao diário do meu projeto vou explicar qual foram os objetivos que desejo alcalçar apartir da criação desse projeto de Resumo CSS.
+Antes de darmos início ao diário do meu projeto vou explicar qual são os objetivos que desejo alcalçar apartir da criação desse projeto de Resumo CSS.
 
 Sou uma pessoa que anota muitas coisas e resumos de cada matéria, o que me ajudou muito a relembrar conteúdos, comecei a achar interresante pessoas que criavam sites
 com resumos dos conteúdos de cada linguagem, eu entrava e via como a didática dessas pessoas era boa e compreensível, logo,  me inspirei a criar esse site com o título
