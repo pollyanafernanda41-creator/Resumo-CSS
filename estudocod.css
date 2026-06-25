@@ -8,5 +8,18 @@ h1 {
     text-align: center;
 }
 
+.Sumário{
+    width: 50%;
+    background-color: rgb(62, 44, 150);
+    margin: 0 auto;
+    text-align: center;
+}
+
+.Conexão{
+    width: 70%;
+    background-color: rgb(62, 44, 150);
+    margin: 0 auto;
+    text-align: center;
+}
 
 
